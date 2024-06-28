@@ -1,26 +1,5 @@
 # Changelog
 
-## [1.15.6](https://github.com/react-native-maps/react-native-maps/compare/v1.15.5...v1.15.6) (2024-05-30)
-
-
-### Bug Fixes
-
-* **iOS:** iOS PrivacyInfo fix ([#5078](https://github.com/react-native-maps/react-native-maps/issues/5078)) ([9f458d9](https://github.com/react-native-maps/react-native-maps/commit/9f458d956ba2c16ee3f2a9e8849d9330dcefdda2))
-
-## [1.15.5](https://github.com/react-native-maps/react-native-maps/compare/v1.15.4...v1.15.5) (2024-05-30)
-
-
-### Bug Fixes
-
-* **android:** UIManagerModule fix for Bridgeless 0.74 ([#5061](https://github.com/react-native-maps/react-native-maps/issues/5061)) ([f194f99](https://github.com/react-native-maps/react-native-maps/commit/f194f9977ea7c6ab547b53e15b4d9a3480c8baa7))
-
-## [1.15.4](https://github.com/react-native-maps/react-native-maps/compare/v1.15.3...v1.15.4) (2024-05-25)
-
-
-### Bug Fixes
-
-* **ios:** resolve issue with Pods installation ([#5065](https://github.com/react-native-maps/react-native-maps/issues/5065)) ([9992c36](https://github.com/react-native-maps/react-native-maps/commit/9992c36054b0a8a056f0ce97d4687fcdf18c2ca5))
-
 ## [1.15.3](https://github.com/react-native-maps/react-native-maps/compare/v1.15.2...v1.15.3) (2024-05-24)
 
 
