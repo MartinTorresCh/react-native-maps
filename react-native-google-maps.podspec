@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.license      = package["license"]
   s.platform     = :ios, "13.4"
 
-  s.source       = { :git => "https://github.com/MartinTorresCh/react-native-maps.git", :tag => "#master" }
+  s.source       = { :git => "https://github.com/MartinTorresCh/react-native-maps.git" }
   s.source_files  = "ios/AirGoogleMaps/**/*.{h,m}"
   s.resource_bundles = {
       'GoogleMapsPrivacy' => ['ios/AirGoogleMaps/Resources/GoogleMapsPrivacy.bundle']
